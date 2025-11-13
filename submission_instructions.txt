@@ -1,0 +1,10 @@
+TA evaluation steps (what I followed):
+
+1. Unzip FirstName_LastName_hw3.zip
+
+2. Ensure python env ready (PyTorch, gymnasium with Atari, AutoROM accepted)
+
+3. Run: python main.py --test_dqn
+   - main.py expects the agent implemented to conform to required API.
+
+4. They will verify the console output screenshot and the training_curve.png in the report.
